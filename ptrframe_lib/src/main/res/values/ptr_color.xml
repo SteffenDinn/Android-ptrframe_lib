@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PtrFrame</string>
+
+    <!-- 下拉加载 -->
+    <color name="ptr_theme">#FFE81B7F</color>
+
+</resources>
