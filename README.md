@@ -5,6 +5,7 @@
 PtrFrameALayout ptrFrameLayout;
 
 ptrFrameLayout.setPtrHandler(new PtrHandlerManager(viewContent) {
+
             @Override
             public void onRefreshBegin(PtrFrameLayout frame) {
                 // 刷新后...
